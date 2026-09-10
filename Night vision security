@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Night Vision Security | CCTV Camera Installation Indore</title>
+
+<style>
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:Arial,sans-serif;
+}
+
+body{
+  background:#f5f7fa;
+  color:#222;
+}
+
+header{
+  background:#07111f;
+  color:white;
+  padding:18px 20px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  position:sticky;
+  top:0;
+  z-index:1000;
+}
+
+.logo{
+  font-size:22px;
+  font-weight:bold;
+}
+
+.logo span{
+  color:#00d4ff;
+}
+
+header a{
+  color:white;
+  text-decoration:none;
+  margin-left:15px;
+  font-size:14px;
+}
+
+.hero{
+  background:linear-gradient(135deg,#07111f,#12385a);
+  color:white;
+  text-align:center;
+  padding:70px 20px;
+}
+
+.hero h1{
+  font-size:40px;
+  margin-bottom:15px;
+}
+
+.hero h1 span{
+  color:#00d4ff;
+}
+
+.hero p{
+  font-size:18px;
+  margin-bottom:25px;
+  line-height:1.6;
+}
+
+.btn{
+  display:inline-block;
+  padding:14px 24px;
+  border-radius:8px;
+  text-decoration:none;
+  font-weight:bold;
+  margin:5px;
+}
+
+.call{
+  background:#00a8ff;
+  color:white;
+}
+
+.whatsapp{
+  background:#20c765;
+  color:white;
+}
+
+.offer{
+  margin:30px auto;
+  max-width:850px;
+  background:white;
+  padding:35px 20px;
+  border-radius:15px;
+  text-align:center;
+  box-shadow:0 5px 25px #0002;
+}
+
+.offer h2{
+  color:#e63946;
+  font-size:32px;
+  margin-bottom:10px;
+}
+
+.price{
+  font-size:42px;
+  font-weight:bold;
+  color:#111;
+  margin:15px 0;
+}
+
+.offer ul{
+  list-style:none;
+  line-height:2;
+  font-size:17px;
+}
+
+section{
+  padding:45px 20px;
+  max-width:1100px;
+  margin:auto;
+}
+
+.title{
+  text-align:center;
+  font-size:30px;
+  margin-bottom:30px;
+}
+
+.cards{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+  gap:20px;
+}
+
+.card{
+  background:white;
+  padding:25px;
+  border-radius:12px;
+  text-align:center;
+  box-shadow:0 4px 15px #0001;
+}
+
+.card .icon{
+  font-size:42px;
+  margin-bottom:12px;
+}
+
+.card h3{
+  margin-bottom:10px;
+}
+
+.contact{
+  background:#07111f;
+  color:white;
+  text-align:center;
+  max-width:none;
+}
+
+.contact h2{
+  font-size:30px;
+  margin-bottom:15px;
+}
+
+.contact p{
+  margin:8px;
+}
+
+footer{
+  background:#020812;
+  color:#aaa;
+  text-align:center;
+  padding:20px;
+  font-size:14px;
+}
+
+.float{
+  position:fixed;
+  right:18px;
+  bottom:18px;
+  background:#20c765;
+  color:white;
+  width:58px;
+  height:58px;
+  border-radius:50%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size:28px;
+  text-decoration:none;
+  box-shadow:0 4px 15px #0005;
+  z-index:2000;
+}
+
+@media(max-width:600px){
+  .hero h1{
+    font-size:30px;
+  }
+
+  header{
+    flex-direction:column;
+    gap:10px;
+  }
+
+  header a{
+    margin:0 5px;
+  }
+
+  .price{
+    font-size:35px;
+  }
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <div class="logo">🌙 NIGHT <span>VISION SECURITY</span></div>
+
+  <nav>
+    <a href="#services">Services</a>
+    <a href="#offer">Offer</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>Night Vision <span>Security</span></h1>
+
+  <p>
+    आपके घर, दुकान, ऑफिस और फैक्ट्री के लिए<br>
+    भरोसेमंद CCTV Camera Installation & Maintenance
+  </p>
+
+  <a class="btn call" href="tel:6260863634">
+    📞 Call Now
+  </a>
+
+  <a class="btn whatsapp"
+     href="https://wa.me/916260863634?text=Namaste%20Night%20Vision%20Security%2C%20mujhe%20CCTV%20lagwana%20hai.">
+    💬 WhatsApp
+  </a>
+</section>
+
+<section id="offer">
+
+  <div class="offer">
+
+    <h2>🔥 SPECIAL CCTV OFFER 🔥</h2>
+
+    <div class="price">4 Camera Setup ₹10,999*</div>
+
+    <ul>
+      <li>✅ 4 CCTV Cameras</li>
+      <li>✅ DVR / Recording System</li>
+      <li>✅ Installation Service</li>
+      <li>✅ Night Vision</li>
+      <li>✅ Remote Mobile Viewing</li>
+    </ul>
+
+    <br>
+
+    <a class="btn whatsapp"
+       href="https://wa.me/916260863634?text=Mujhe%20%E2%82%B910999%20CCTV%20offer%20ki%20details%20chahiye.">
+       📲 Offer की जानकारी लें
+    </a>
+
+    <p style="font-size:12px;color:#777;margin-top:15px;">
+      *Terms & conditions apply. Final price site inspection और selected equipment के अनुसार हो सकता है.
+    </p>
+
+  </div>
+
+</section>
+
+<section id="services">
+
+  <h2 class="title">हमारी CCTV Services</h2>
+
+  <div class="cards">
+
+    <div class="card">
+      <div class="icon">📹</div>
+      <h3>CCTV Installation</h3>
+      <p>घर, दुकान, ऑफिस और अन्य जगहों पर professional CCTV installation.</p>
+    </div>
+
+    <div class="card">
+      <div class="icon">🔧</div>
+      <h3>CCTV Repair</h3>
+      <p>CCTV camera, DVR और wiring की repair एवं troubleshooting.</p>
+    </div>
+
+    <div class="card">
+      <div class="icon">📱</div>
+      <h3>Mobile Viewing</h3>
+      <p>अपने मोबाइल से camera को कहीं से भी monitor करें.</p>
+    </div>
+
+    <div class="card">
+      <div class="icon">🌙</div>
+      <h3>Night Vision</h3>
+      <p>रात में भी बेहतर surveillance के लिए night vision cameras.</p>
+    </div>
+
+    <div class="card">
+      <div class="icon">🏠</div>
+      <h3>Home Security</h3>
+      <p>आपके घर और परिवार की सुरक्षा के लिए CCTV solutions.</p>
+    </div>
+
+    <div class="card">
+      <div class="icon">🏪</div>
+      <h3>Shop & Business</h3>
+      <p>दुकान, warehouse, office और business premises की security.</p>
+    </div>
+
+  </div>
+
+</section>
+
+<section>
+
+  <h2 class="title">CCTV क्यों जरूरी है?</h2>
+
+  <div class="cards">
+
+    <div class="card">
+      <h3>🔒 Security</h3>
+      <p>आपकी property पर 24×7 निगरानी.</p>
+    </div>
+
+    <div class="card">
+      <h3>📱 Remote Monitoring</h3>
+      <p>मोबाइल से live camera देखने की सुविधा.</p>
+    </div>
+
+    <div class="card">
+      <h3>🎥 Evidence</h3>
+      <p>जरूरत पड़ने पर recorded footage उपयोगी हो सकती है.</p>
+    </div>
+
+  </div>
+
+</section>
+
+<section id="contact" class="contact">
+
+  <h2>Night Vision Security</h2>
+
+  <p>📍 Nenod Mataji Market, Gandhinagar, Indore</p>
+
+  <p>📞 6260863634</p>
+
+  <p>📹 CCTV Installation | Repair | Maintenance</p>
+
+  <br>
+
+  <a class="btn call" href="tel:6260863634">
+    📞 अभी Call करें
+  </a>
+
+  <a class="btn whatsapp"
+     href="https://wa.me/916260863634?text=Namaste%20Night%20Vision%20Security%2C%20mujhe%20CCTV%20service%20chahiye.">
+    💬 WhatsApp करें
+  </a>
+
+</section>
+
+<footer>
+  © 2026 Night Vision Security | CCTV Security Solutions | Indore
+</footer>
+
+<a class="float"
+   href="https://wa.me/916260863634?text=Namaste%20Night%20Vision%20Security%2C%20mujhe%20CCTV%20ke%20baare%20me%20jaankari%20chahiye."
+   title="WhatsApp">
+   💬
+</a>
+
+</body>
+</html>
